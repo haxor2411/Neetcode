@@ -7,12 +7,23 @@ This repository contains solutions to the most frequently asked LeetCode problem
 The solutions are organized into different categories:
 
 - **Arrays & Hashing**: Problems involving array manipulations, hash tables, and string operations
-- More categories will be added as solutions are implemented
+- **Two Pointers**: Problems solved using the two-pointer technique
+- **Stack**: Problems involving stack data structure
 
-## Problem Categories
+## Implemented Solutions
 
 ### Arrays and Hashing
-Contains solutions to fundamental problems involving arrays, hash maps, and string manipulation techniques. These are often the most common types of questions in technical interviews.
+- Q1: Two Sum
+- Q217: Contains Duplicate
+- Q242: Valid Anagram
+- Q347: Top K Frequent Elements
+- Q49: Group Anagrams
+
+### Two Pointers
+Solutions for problems using two-pointer techniques for efficient array traversal and string manipulation.
+
+### Stack
+Problems that utilize stack data structure for solving various algorithmic challenges.
 
 ## How to Use This Repository
 
